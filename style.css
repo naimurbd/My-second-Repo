@@ -1,4 +1,15 @@
 p{
     color:brown;
     background-color: burlywood;
+    height: 30px;
+    width:50%;
+}
+h1{
+    color:chartreuse;
+}
+.name{
+    background-color: crimson;
+}
+#nam{
+    color:darkcyan;
 }
